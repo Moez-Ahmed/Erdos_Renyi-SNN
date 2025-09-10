@@ -1,6 +1,6 @@
-# Erdos–Rényi Spiking Neural Networks (SNN) — Criticality & Avalanches
+# Erdos–Renyi Spiking Neural Networks (SNN) — Criticality & Avalanches
 
-This repo explores how random (Erdos–Renyi) connectivity and synaptic coupling shape the collective dynamics of **spiking neural networks**, with a focus on neuronal avalanches and potential signatures of criticality.
+This repo explores how random (Erdos–Renyi) connectivity and synaptic coupling shape the collective dynamics of spiking neural networks (SNNs), with a focus on neuronal avalanches and potential signatures of criticality.
 
 Biologically, I simulate large ensembles of point neurons (Izhikevich dynamics) wired sparsely. I measure population firing rates, global spike-time coherence, and the size/duration distributions of avalanches—cascades of activity often reported to be heavy-tailed near critical regimes in cortical tissue.
 
