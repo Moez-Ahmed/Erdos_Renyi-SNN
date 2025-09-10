@@ -6,10 +6,10 @@ Biologically, I simulate large ensembles of point neurons (Izhikevich dynamics) 
 
 ## Contents
 
-~ `erdosRenyi.py` — Builds ER networks across a grid of connection probabilities and weights, simulates spiking, and saves:
+- `erdosRenyi.py` — Builds ER networks across a grid of connection probabilities and weights, simulates spiking, and saves:
   ~ `figures/global_coherence.png`
   ~ `figures/population_firing_rate.png`
-~ `erdosRenyi_avalanche.py` — Runs ER networks at several connection probabilities, detects avalanche size/duration distributions, plots log–log histograms, and estimates power-law exponents via MLE.
+- `erdosRenyi_avalanche.py` — Runs ER networks at several connection probabilities, detects avalanche size/duration distributions, plots log–log histograms, and estimates power-law exponents via MLE.
 
 ## Quick start
 
